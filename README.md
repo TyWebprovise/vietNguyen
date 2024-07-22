@@ -23,4 +23,4 @@ flutter run
 ```
 to run app in simulator
 
-You can find record video by name record.mp4
+You can watch screen recording by clicking this [link](https://drive.google.com/file/d/1P0D1FoUNccCR44GXhS-Ue4pn7Cgk2ezX/view?usp=drive_link)
