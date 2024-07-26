@@ -1,17 +1,14 @@
-# recipe
+# Recipes App
 
-A new Flutter project.
+## Justifications
+- **Data Loading:** Used the `http` package to fetch data from an API.
+- **UI Implementation:** Displayed recipes in a list using Flutter's `ListView` and `ListTile`.
+- **Error Handling:** Implemented error handling to show messages if data loading fails.
+- **State Management:** Utilized BLoC for state management to ensure scalability and maintainability.
 
-## Getting Started
+## Testing Strategies
+- **Unit Tests:** Wrote unit tests for the `Recipe` model and `RecipeService` to ensure data parsing and fetching are correct.
+- **Widget Tests:** Wrote widget tests to ensure `RecipeListScreen` displays correctly and handles loading states.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+## Screen Recording
+https://drive.google.com/drive/folders/1n-KhPXa2Vdt4NBksgAx5yi9nE8L90Osu?usp=sharing
